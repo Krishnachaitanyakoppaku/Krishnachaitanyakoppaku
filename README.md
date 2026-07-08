@@ -1,75 +1,177 @@
+
 <div align="center">
 
-# Hi there, I'm Krishna Chaitanya Koppaku! 👋
+# Hi 👋, I'm Krishna Chaitanya Koppaku
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Krishnachaitanyakoppaku&style=for-the-badge&color=blue)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Visitor Count](https://komarev.com/ghpvc/?username=Krishnachaitanyakoppaku&style=for-the-badge&color=0E75B6)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0079FF&width=435&lines=4th+Year+B.Tech+CSE+Student+at+IIITDM+Kancheepuram;Building+Scalable+Solutions+&+Researching+Future+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%40+IIITDM+Kancheepuram;AI+%7C+Machine+Learning+%7C+Full-Stack+Developer;Building+Agentic+AI+Applications;Researching+NLP+%26+Speech+Understanding;Always+Learning+Something+New)](https://git.io/typing-svg)
 
----
-
-## 👨‍💻 About Me
-I am a dedicated Computer Science student with a passion for building scalable, cloud-native applications and exploring low-level system internals. I love documenting my journey and sharing insights through technical content creation on YouTube, Medium, and Instagram.
-
-* 🔭 Currently focused on Federated Learning for 6G wireless communications.
-* ⚡ Fun fact: I enjoy diving into xv6 kernel internals and optimizing multithreaded algorithms.
-* 💬 Ask me about: The MERN stack, Network Security, or UI/UX principles.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/krishna-chaitanya-koppaku-4b7779289/)
-
----
-
-## 🛠 Tech Stack
-
-### Frontend & Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-chaitanya-koppaku-4b7779289/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishnakoppaku.vercel.app/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-phi-three-82.vercel.app/api?username=Krishnachaitanyakoppaku&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=Krishnachaitanyakoppaku&theme=tokyonight" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-phi-three-82.vercel.app/api/top-langs/?username=Krishnachaitanyakoppaku&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishnachaitanyakoppaku&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-### 🤝 Let's Connect!
-Thank you for visiting my profile. I am always open to discussing new projects, research ideas, or potential collaborations. Let’s build something great together!
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://krishnakoppaku.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Chaitanya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-chaitanya-koppaku-4b7779289/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 </div>
+
+---
+
+# 🚀 About Me
+
+🎓 B.Tech in Computer Science & Engineering at **IIITDM Kancheepuram**
+
+💡 Passionate about **Artificial Intelligence, Machine Learning, NLP, Full-Stack Development, and System Design**
+
+🤖 Building intelligent applications using **LLMs, Agentic AI, Speech Recognition, and Computer Vision**
+
+📄 **Research Paper Accepted at CVIP 2026**
+
+🌱 Currently working on:
+- Pilot Instruction Understanding using ASR + NLP
+- Agentic AI Workspace
+- AI-powered Full Stack Applications
+
+💻 I enjoy solving real-world engineering problems and building scalable software that combines research with practical applications.
+
+---
+
+# 🏆 Highlights
+
+- 📄 Research Paper accepted at **CVIP 2026**
+- 🤖 Developing an **Agentic AI Workspace**
+- ✈️ Building an **NLP-based Pilot Instruction Understanding System**
+- 👨‍💻 Core Member – Developers Club
+- 📊 MATLAB Club Coordinator
+- 🎓 Class Representative
+- 🚀 Passionate about Open Source & AI Research
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,html,css,sql" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql,supabase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,firebase" />
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Agentic AI Workspace
+Autonomous AI agents capable of understanding user requests, orchestrating workflows, and automating complex tasks using modern LLM architectures.
+
+---
+
+## ✈️ Pilot Instruction Understanding
+
+An end-to-end NLP pipeline for aviation communication featuring:
+
+- Speech Recognition (ASR)
+- Intent Recognition
+- Named Entity Recognition
+- Command Mapping
+- Aviation Command Understanding
+
+---
+
+## 🏥 Hospital Management System
+
+A full-stack healthcare management platform built using Flask and MySQL featuring authentication, patient records, appointment management, and database integration.
+
+---
+
+## 🏋️ Gym Slot Booking System
+
+A responsive web platform for managing gym slot reservations for students.
+
+---
+
+## 🌐 Developers Club Blog Platform
+
+A modern frontend platform for publishing technical blogs and community content.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-phi-three-82.vercel.app/api?username=Krishnachaitanyakoppaku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Krishnachaitanyakoppaku&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats-phi-three-82.vercel.app/api/top-langs/?username=Krishnachaitanyakoppaku&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnachaitanyakoppaku&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/krishna-chaitanya-koppaku-4b7779289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://krishnakoppaku.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Building intelligent systems that solve real-world problems through AI, software engineering, and continuous learning."*
+
+⭐ **If you like my work, consider starring my repositories!**
+
+</div>
+
