@@ -53,18 +53,18 @@ I am a dedicated Computer Science student with a passion for building scalable, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnachaitanyakoppaku&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-phi-three-82.vercel.app/api?username=Krishnachaitanyakoppaku&show_icons=true&theme=tokyonight" alt="Stats" />
   <img src="https://streak-stats.demolab.com?user=Krishnachaitanyakoppaku&theme=tokyonight" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnachaitanyakoppaku&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-three-82.vercel.app/api/top-langs/?username=Krishnachaitanyakoppaku&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishnachaitanyakoppaku&theme=darkhub" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishnachaitanyakoppaku&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---
