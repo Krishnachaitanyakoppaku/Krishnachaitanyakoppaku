@@ -4,9 +4,8 @@
 	<br>
 	<br>
 
-# Hi 👋, I'm Krishna Chaitanya Koppaku
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Krishna Chaitanya Koppaku
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Krishnachaitanyakoppaku&style=for-the-badge&color=0E75B6)
 
@@ -85,43 +84,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 Agentic AI Workspace
-Autonomous AI agents capable of understanding user requests, orchestrating workflows, and automating complex tasks using modern LLM architectures.
-
----
-
-## ✈️ Pilot Instruction Understanding
-
-An end-to-end NLP pipeline for aviation communication featuring:
-
-- Speech Recognition (ASR)
-- Intent Recognition
-- Named Entity Recognition
-- Command Mapping
-- Aviation Command Understanding
-
----
-
-## 🏥 Hospital Management System
-
-A full-stack healthcare management platform built using Flask and MySQL featuring authentication, patient records, appointment management, and database integration.
-
----
-
-## 🏋️ Gym Slot Booking System
-
-A responsive web platform for managing gym slot reservations for students.
-
----
-
-## 🌐 Developers Club Blog Platform
-
-A modern frontend platform for publishing technical blogs and community content.
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -139,13 +101,8 @@ A modern frontend platform for publishing technical blogs and community content.
 </p>
 
 ---
-
-# 📈 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnachaitanyakoppaku&theme=tokyo-night&hide_border=true"/>
-
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 ---
