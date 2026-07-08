@@ -54,7 +54,7 @@ I am a dedicated Computer Science student with a passion for building scalable, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishnachaitanyakoppaku&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnachaitanyakoppaku&theme=tokyonight" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Krishnachaitanyakoppaku&theme=tokyonight" alt="Streak" />
 </p>
 
 <p align="center">
