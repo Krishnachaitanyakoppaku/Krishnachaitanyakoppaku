@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%40+IIITDM+Kancheepuram;AI+%7C+Machine+Learning+%7C+Full-Stack+Developer;Building+Agentic+AI+Applications;Researching+NLP+%26+Speech+Understanding;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishnakoppaku.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-chaitanya-koppaku-4b7779289/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnachaitanya-koppaku)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krish23306@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1RLagu7OzJ-xWQqhxpU3-kqNtYQEnTVk8/view?usp=drive_link)
 
